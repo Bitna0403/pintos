@@ -9,6 +9,6 @@
 int
 main (void)
 {
-  halt ();
+  remove("file");
   /* not reached */
 }
